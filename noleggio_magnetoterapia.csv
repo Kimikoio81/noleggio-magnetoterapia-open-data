@@ -1,6 +1,0 @@
-id,nome_macchinario,descrizione,durata_giorni,prezzo_base,disponibilità,sito_web,wikidata_id,zenodo_id,categoria
-1,noleggio Magnetoterapia,Macchinario per magnetoterapia cemp a noleggio a domicilio con cosegna gratuita,20,€120,si,https://www.noleggiomagnetoterapia.it,Q136689122,10.5281/zenodo.17554638,Magnetoterapia
-1,noleggio Magnetoterapia,Macchinario per magnetoterapia cemp a noleggio a domicilio con cosegna gratuita,30,€130,si,https://www.noleggiomagnetoterapia.it,Q136689122,10.5281/zenodo.17554638,Magnetoterapia
-1,noleggio Magnetoterapia,Macchinario per magnetoterapia cemp a noleggio a domicilio con cosegna gratuita,45,€145,si,https://www.noleggiomagnetoterapia.it,Q136689122,10.5281/zenodo.17554638,Magnetoterapia
-1,noleggio Magnetoterapia,Macchinario per magnetoterapia cemp a noleggio a domicilio con cosegna gratuita,60,€180,si,https://www.noleggiomagnetoterapia.it,Q136689122,10.5281/zenodo.17554638,Magnetoterapia
-1,noleggio Magnetoterapia,Macchinario per magnetoterapia cemp a noleggio a domicilio con cosegna gratuita,90,€220,si,https://www.noleggiomagnetoterapia.it,Q136689122,10.5281/zenodo.17554638,Magnetoterapia
