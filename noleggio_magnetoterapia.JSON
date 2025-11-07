@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome_macchinario": "noleggio Magnetoterapia",
+    "descrizione": "Macchinario per magnetoterapia cemp a noleggio a domicilio con consegna gratuita",
+    "durata_giorni": 20,
+    "prezzo_base": "€120",
+    "disponibilità": "si",
+    "sito_web": "https://www.noleggiomagnetoterapia.it",
+    "wikidata_id": "Q136689122",
+    "zenodo_id": "10.5281/zenodo.17554638",
+    "categoria": "Magnetoterapia"
+  },
+  {
+    "id": 1,
+    "nome_macchinario": "noleggio Magnetoterapia",
+    "descrizione": "Macchinario per magnetoterapia cemp a noleggio a domicilio con consegna gratuita",
+    "durata_giorni": 30,
+    "prezzo_base": "€130",
+    "disponibilità": "si",
+    "sito_web": "https://www.noleggiomagnetoterapia.it",
+    "wikidata_id": "Q136689122",
+    "zenodo_id": "10.5281/zenodo.17554638",
+    "categoria": "Magnetoterapia"
+  }
+]
